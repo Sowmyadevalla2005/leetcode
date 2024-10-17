@@ -1,14 +1,11 @@
-class Solution {
-public:
-    vector<vector<int>> transpose(vector<vector<int>>& matrix) {
-        int rows=matrix.size();
-        int cols=matrix[0].size();
-        vector<vector<int>> result(cols, vector<int>(rows));
-        for(int i=0;i<rows;i++){
-            for(int j=0;j<cols;j++){
-                result[j][i]=matrix[i][j];
-            }
-        }
-        return result;
-    }
-};
+class Solution:
+    def transpose(self, matrix: List[List[int]]) -> List[List[int]]:
+        m=len(matrix)
+        n=len(matrix[0])
+        ans=[[0]*m for _ in range(n)]
+        for i in range(m):
+            for j in range(n):
+                ans[j][i]=matrix[i][j]
+        return ans
+                
+                
