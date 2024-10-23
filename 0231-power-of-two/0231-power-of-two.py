@@ -4,6 +4,6 @@ class Solution:
             if pow(2,i)==n:
                 return True
             elif pow(2,i)>n:
-                return False
+                break
         return False
         
