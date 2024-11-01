@@ -1,17 +1,14 @@
 nums=[5,9,1,8,7]
 n=len(nums)
 maxx=0
-ans=[]
 for i in range(n):
     for j in range(i,n):
         temp=[]
+        tsum=0
         for k in range(i,j+1):
             temp.append(nums[k])
-        ans.append(temp)
-v=len(ans)
-for i in range(v):
-    if(len(ans[i])==3):
-        m=sum(ans[i])
-        maxx=max(m,maxx)
+            tsum=tsum+nums[k]
+        if len(temp)==3:
+                maxx=max(maxx,tsum)
 print(maxx)
         
