@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0610-triangle-judgement) |
 | [1338-queries-quality-and-percentage](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1338-queries-quality-and-percentage) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Hash Table
 |  |
