@@ -1,0 +1,15 @@
+li=[9,3,4,8,1]
+ans=0
+l=0
+k=10
+temp=0
+for r in range(len(li)):
+    temp=temp+li[r]
+    
+    while(temp>k):
+        temp=temp-li[l]
+        l=l+1
+    s=r-l+1
+        
+    ans=max(ans,s)
+print(ans)
