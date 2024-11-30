@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0561-array-partition) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
