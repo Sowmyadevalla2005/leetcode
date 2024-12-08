@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0812-rotate-string) |
 | [1542-consecutive-characters](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1542-consecutive-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
