@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0067-add-binary) |
 | [0812-rotate-string](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0812-rotate-string) |
 | [1542-consecutive-characters](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1542-consecutive-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -76,4 +77,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0812-rotate-string) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
