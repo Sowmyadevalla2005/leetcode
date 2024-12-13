@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## String
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0561-array-partition) |
 | [0790-global-and-local-inversions](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0790-global-and-local-inversions) |
+| [0940-fruit-into-baskets](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
