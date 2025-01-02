@@ -1,0 +1,28 @@
+class Solution:
+    def spiralFill(self, n, m, arr):
+        res=[[-1]*m for _ in range(n)]
+        dr=[0,1,0,-1]
+        dc=[1,0,-1,0]
+        
+        dirIdx=0
+        index=0
+        r=0
+        c=0
+        
+        while index<len(arr):
+            res[r][c]=arr[index]
+            index+=1
+            
+            newR=r+dr[dirIdx]
+            newC=c+dc[dirIdx]
+            
+            if(newR<0 or newR>=n or newC<0 or newC>=m or res[newR][newC]!=-1):
+                dirIdx=(dirIdx+1)%4
+                
+                newR=r+dr[dirIdx]
+                newC=c+dc[dirIdx]
+            r=newR
+            c=newC
+            
+        return res
+                
