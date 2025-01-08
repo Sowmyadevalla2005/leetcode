@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
