@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0283-move-zeroes) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0342-power-of-four) |
 ## Simulation
