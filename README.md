@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## String
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0812-rotate-string](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0812-rotate-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1542-consecutive-characters](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1542-consecutive-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
