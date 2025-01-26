@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0561-array-partition) |
 | [0790-global-and-local-inversions](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0790-global-and-local-inversions) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0191-number-of-1-bits) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
