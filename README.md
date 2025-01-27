@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0610-triangle-judgement) |
 | [1155-product-sales-analysis-iii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1155-product-sales-analysis-iii) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
+| [1317-monthly-transactions-i](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1877-find-followers-count](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1877-find-followers-count) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
