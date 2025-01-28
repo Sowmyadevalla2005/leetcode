@@ -1,0 +1,7 @@
+from matplotlib.image import imread
+panda = imread("images/panda.png")
+print(type(panda))
+
+#output
+
+<class 'numpy.ndarray' >
