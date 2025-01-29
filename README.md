@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0412-fizz-buzz) |
 | [0790-global-and-local-inversions](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0790-global-and-local-inversions) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [2752-sum-multiples](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2752-sum-multiples) |
 ## Bit Manipulation
 |  |
 | ------- |
