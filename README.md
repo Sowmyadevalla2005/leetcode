@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3034-points-that-intersect-with-cars](https://github.com/Sowmyadevalla2005/leetcode/tree/master/3034-points-that-intersect-with-cars) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Sowmyadevalla2005/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Sowmyadevalla2005/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Array
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2714-left-and-right-sum-differences](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3034-points-that-intersect-with-cars](https://github.com/Sowmyadevalla2005/leetcode/tree/master/3034-points-that-intersect-with-cars) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Sowmyadevalla2005/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
 | ------- |
