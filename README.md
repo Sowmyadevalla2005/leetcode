@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0136-single-number) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0231-power-of-two) |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
