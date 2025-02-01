@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2844-sum-of-squares-of-special-elements](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3034-points-that-intersect-with-cars](https://github.com/Sowmyadevalla2005/leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sowmyadevalla2005/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3429-special-array-i](https://github.com/Sowmyadevalla2005/leetcode/tree/master/3429-special-array-i) |
 ## Sorting
 |  |
 | ------- |
