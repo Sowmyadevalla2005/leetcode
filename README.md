@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1833-find-the-highest-altitude](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2102-find-the-middle-index-in-array](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2714-left-and-right-sum-differences](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2714-left-and-right-sum-differences) |
