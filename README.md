@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1542-consecutive-characters](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1542-consecutive-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 ## Sliding Window
 |  |
 | ------- |
