@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1833-find-the-highest-altitude](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1848-sum-of-unique-elements) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2102-find-the-middle-index-in-array](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
