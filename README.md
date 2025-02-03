@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0812-rotate-string](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0812-rotate-string) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
 | ------- |
