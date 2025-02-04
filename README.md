@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0274-h-index) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0342-power-of-four) |
@@ -235,9 +237,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0204-count-primes) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0078-subsets) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
