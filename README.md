@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0217-contains-duplicate) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0940-fruit-into-baskets](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0812-rotate-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1542-consecutive-characters](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1542-consecutive-characters) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1364-tuple-with-same-product](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1848-sum-of-unique-elements](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0274-h-index) |
+| [0451-sort-characters-by-frequency](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0561-array-partition) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -255,4 +259,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0204-count-primes) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
