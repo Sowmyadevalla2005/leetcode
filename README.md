@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
