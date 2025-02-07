@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1542-consecutive-characters](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1542-consecutive-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2032-largest-odd-number-in-string](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 ## Sliding Window
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0561-array-partition) |
+| [2032-largest-odd-number-in-string](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## Counting Sort
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0412-fizz-buzz) |
 | [0790-global-and-local-inversions](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0790-global-and-local-inversions) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [2032-largest-odd-number-in-string](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2752-sum-multiples](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2752-sum-multiples) |
 ## Bit Manipulation
 |  |
