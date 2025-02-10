@@ -4,7 +4,14 @@ class Solution(object):
         :type candyType: List[int]
         :rtype: int
         """
-        s=set(candyType)
-        t=len(candyType)//2
-        return min(len(s),t)
-        
+        h={}
+        c=0
+        n=len(candyType)
+        for i in candyType:
+            h[i]=1
+        for i in h:
+            if c<n//2:
+                c+=1
+            else:
+                break
+        return c
