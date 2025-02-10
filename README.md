@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3447-clear-digits](https://github.com/Sowmyadevalla2005/leetcode/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0412-fizz-buzz) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
+| [3447-clear-digits](https://github.com/Sowmyadevalla2005/leetcode/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -291,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Sowmyadevalla2005/leetcode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
