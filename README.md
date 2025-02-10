@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0575-distribute-candies](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0575-distribute-candies) |
 | [0940-fruit-into-baskets](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0724-find-pivot-index) |
 | [0790-global-and-local-inversions](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0790-global-and-local-inversions) |
 | [0792-binary-search](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0792-binary-search) |
