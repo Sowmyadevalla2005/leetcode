@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2639-separate-the-digits-in-an-array](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3034-points-that-intersect-with-cars](https://github.com/Sowmyadevalla2005/leetcode/tree/master/3034-points-that-intersect-with-cars) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0412-fizz-buzz) |
+| [2639-separate-the-digits-in-an-array](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
