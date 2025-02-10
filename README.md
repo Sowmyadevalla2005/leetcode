@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3034-points-that-intersect-with-cars](https://github.com/Sowmyadevalla2005/leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sowmyadevalla2005/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sowmyadevalla2005/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
