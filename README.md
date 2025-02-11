@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1542-consecutive-characters](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1542-consecutive-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0412-fizz-buzz) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3447-clear-digits](https://github.com/Sowmyadevalla2005/leetcode/tree/master/3447-clear-digits) |
@@ -298,5 +300,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Sowmyadevalla2005/leetcode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
