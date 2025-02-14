@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0412-fizz-buzz) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0059-spiral-matrix-ii) |
 ## Recursion
 |  |
 | ------- |
