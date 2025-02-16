@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0078-subsets) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Number Theory
 |  |
