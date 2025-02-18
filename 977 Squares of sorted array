@@ -1,0 +1,28 @@
+nums=[-4,-1,0,3,10]
+l=0
+r=len(nums)-1
+res=[]
+while(l<=r):
+    if abs(nums[l])>abs(nums[r]):
+        res.append(nums[l]**2)
+        l=l+1
+    else:
+        res.append(nums[r]**2)
+        r=r-1
+            
+print(res[::-1])   /// O(n)
+
+
+sorted based approach 
+l=[]
+for i in nums:
+    if i <0:
+        l.append(abs(i))
+    else:
+        l.append(i)    // O(n)
+y=sorted(l) // O(nlogn)
+print([i*i for i in y]) // O(n)
+
+
+
+overall O(nlogn)
