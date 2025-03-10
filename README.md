@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1127-last-stone-weight](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1127-last-stone-weight) |
 | [1319-unique-number-of-occurrences](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1127-last-stone-weight](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1127-last-stone-weight) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Bucket Sort
