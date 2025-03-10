@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3034-points-that-intersect-with-cars](https://github.com/Sowmyadevalla2005/leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sowmyadevalla2005/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3447-clear-digits](https://github.com/Sowmyadevalla2005/leetcode/tree/master/3447-clear-digits) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3483-alternating-groups-ii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Counting
 |  |
 | ------- |
