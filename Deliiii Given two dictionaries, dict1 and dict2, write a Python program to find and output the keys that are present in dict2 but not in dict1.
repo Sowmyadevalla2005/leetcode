@@ -1,0 +1,11 @@
+Dic={"key1": "value1", "key2": "value2"}
+Dici={"key2": "value2", "key3": "value3","key4":"value4","key1":"value1"}
+l=[]
+
+for key,val in Dici.items():
+    if key not in Dic.keys():
+        l.append(key)
+print(l)
+
+
+print(set(Dici.keys())-set(Dic.keys()))
