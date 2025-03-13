@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sowmyadevalla2005/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Sowmyadevalla2005/leetcode/tree/master/3429-special-array-i) |
 | [3483-alternating-groups-ii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2714-left-and-right-sum-differences](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3034-points-that-intersect-with-cars](https://github.com/Sowmyadevalla2005/leetcode/tree/master/3034-points-that-intersect-with-cars) |
+| [3643-zero-array-transformation-ii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## String Matching
 |  |
 | ------- |
