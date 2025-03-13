@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0414-third-maximum-number) |
+| [0463-island-perimeter](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0575-distribute-candies) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0463-island-perimeter](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0463-island-perimeter) |
 ## Recursion
 |  |
 | ------- |
@@ -369,4 +371,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2187-vowels-of-all-substrings](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2187-vowels-of-all-substrings) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
