@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0046-permutations](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0057-insert-interval) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0090-subsets-ii) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
