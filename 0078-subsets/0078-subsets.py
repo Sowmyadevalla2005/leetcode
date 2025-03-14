@@ -1,9 +1,21 @@
-class Solution:
-    def subsets(self, nums: List[int]) -> List[List[int]]:
-        s=[[]]
-        for i in range(len(nums)):
-            for j in range(len(s)):
-                temp=s[j]+[nums[i]]
-                s.append(temp)
-        return s
+class Solution(object):
+    def subsets(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[List[int]]
+        """
+
+        n=len(nums)
+
+        l=[]
+        for num in range(2**n):
+            s=[]
+            for i in range(n):
+                if (num & (1<<i)):
+                    s.append(nums[i])
+            l.append(s)
+        return l
+
+
+
         
