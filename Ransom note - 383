@@ -1,0 +1,18 @@
+note = "aaab"
+mag = "baa"
+s = {}
+
+for d in mag:
+    if d in s:
+        s[d] += 1
+    else:
+        s[d] = 1
+
+for i in note:
+    if i in s and s[i] > 0:
+        s[i] -= 1
+    else:
+        print(False) 
+        break
+else:
+    print(True)  
