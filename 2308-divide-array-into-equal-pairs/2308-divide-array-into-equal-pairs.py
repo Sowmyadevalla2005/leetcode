@@ -4,9 +4,14 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-            
-        nums.sort()
 
-        return all(nums[i]==nums[i+1] for i in range(0,len(nums),2))
+        f={}
 
-        
+        for num in nums:
+            if num in f:
+                f[num]+=1
+            else:
+                f[num]=1
+
+        even = all(c%2==0 for c in f.values())
+        return even     
