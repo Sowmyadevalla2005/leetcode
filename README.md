@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0090-subsets-ii) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
