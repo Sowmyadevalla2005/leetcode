@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2478-longest-nice-subarray](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2478-longest-nice-subarray) |
 | [3483-alternating-groups-ii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Counting
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2478-longest-nice-subarray](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0461-hamming-distance) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2478-longest-nice-subarray](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2478-longest-nice-subarray) |
 ## Simulation
 |  |
 | ------- |
