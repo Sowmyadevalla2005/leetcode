@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0067-add-binary) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0118-pascals-triangle) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0077-combinations) |
