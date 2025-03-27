@@ -1,14 +1,20 @@
-class Solution:
-    def search(self, nums: List[int], target: int) -> int:
-        def binary_search(low : int,high : int) -> int:
-            if low>high:
-                return -1
-            mid=(low+high)//2
-            if(nums[mid]==target):
+class Solution(object):
+    def search(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: int
+        """
+        l=0
+        r=len(nums)-1
+
+        while l<=r:
+            mid=(l+r)//2
+            if target==nums[mid]:
                 return mid
-            elif(target< nums[mid]):
-                return binary_search(low,mid-1)
+            elif target>=nums[mid]:
+                l=mid+1
             else:
-                return binary_search(mid+1,high)
-        return binary_search(0,len(nums)-1)
-        
+                r=mid-1
+
+        return -1
