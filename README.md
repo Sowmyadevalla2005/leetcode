@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -413,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
