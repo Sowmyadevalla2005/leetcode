@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0412-fizz-buzz) |
 | [0790-global-and-local-inversions](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0790-global-and-local-inversions) |
 | [1014-k-closest-points-to-origin](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1014-k-closest-points-to-origin) |
