@@ -1,0 +1,59 @@
+import queue
+class TreeNode:
+    def __init__(self,val=0,left=None,right=None):
+        self.val=val
+        self.left=left
+        self.right=right
+class Solution:
+    def inorderTraversal(self,root):
+        res=[]
+        def inorder(node):
+            if node:
+                inorder(node.left)
+                res.append(node.val)
+                inorder(node.right)
+                
+            else:
+                return []
+        inorder(root)
+        return res
+def build_Tree(values):
+    if not values and values[0] is None:
+        return []
+        
+    root = TreeNode(values[0])
+    queue=[root]
+    i=1
+    
+    while i<len(values):
+        
+        curr = queue.pop(0)
+        
+        if i<len(values) and values[i] is not None:
+            curr.left=TreeNode(values[i])
+            queue.append(curr.left)
+        i+=1
+        
+        if i<len(values) and values[i] is not None:
+            curr.right = TreeNode(values[i])
+            queue.append(curr.right)
+        i+=1
+        
+    return root
+    
+if __name__ == "__main__":
+    
+    values=[1,2,3,None,5]
+    
+    root=build_Tree(values)
+    
+    solution = Solution()
+    
+    res=solution.inorderTraversal(root)
+    
+    print(res)
+    
+    
+    
+
+        
