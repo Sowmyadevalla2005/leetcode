@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
