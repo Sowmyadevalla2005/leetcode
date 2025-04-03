@@ -6,8 +6,13 @@ class Solution(object):
         :rtype: bool
         """
 
-        for m in matrix:
-            if target in m:
-                return True
+        m=len(matrix)
+        n=len(matrix[0])
+
+        for i in range(m):
+            for j in range(n):
+                if target == matrix[i][j]:
+                    return True
+
         return False
         
