@@ -5,10 +5,21 @@ class Solution(object):
         :rtype: int
         """
 
-        summ=(0,0)
-        for n in nums:
-            summ=(summ[1],max(summ[0]+n,summ[1]))
+        n=len(nums)
+        dp=[0]*n
 
-        return summ[1]
+        if n==0:
+            return 0
+
+        elif n==1:
+            return nums[0]
+
+        dp[0]=nums[0]
+        dp[1]=max(nums[0],nums[1])
+
+        for i in range(2,n):
+            dp[i]=max(dp[i-1],dp[i-2]+nums[i])
+        
+        return dp[n-1]
 
         
