@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0198-house-robber](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0392-is-subsequence) |
 | [2187-vowels-of-all-substrings](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2187-vowels-of-all-substrings) |
