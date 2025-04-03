@@ -1,0 +1,31 @@
+arr = [1,6,8,9,2]
+
+def sort(nums):
+    for i in range(len(nums)):
+        for j in range(0,len(nums)-i-1):
+            if nums[j]>nums[j+1]:
+                temp=nums[j]
+                nums[j]=nums[j+1]
+                nums[j+1]=temp
+    return nums
+
+s=sort(arr)
+n=len(arr)
+print(s[n-2])
+
+
+arr = [1,6,9,2]
+
+l=float('-inf')
+sl=float('-inf')
+
+for n in arr:
+    if n>l:
+        sl=l
+        l=n
+    elif n!=l and n>sl:
+        sl=n
+print(sl)
+    
+
+        
