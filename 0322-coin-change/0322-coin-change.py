@@ -17,7 +17,16 @@ class Solution(object):
 
         dp=[0]*(amount+1)
 
-        coins.sort()
+        def sort(coins):
+            for i in range(n):
+                for j in range(n-i-1):
+                    if coins[j]>coins[j+1]:
+                        temp=coins[j]
+                        coins[j]=coins[j+1]
+                        coins[j+1]=temp
+            return coins
+            
+        sort(coins)
 
         for i in range(1,amount+1):
             minn=float('inf')
