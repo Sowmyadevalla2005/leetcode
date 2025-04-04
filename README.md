@@ -420,10 +420,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0463-island-perimeter](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0463-island-perimeter) |
 ## Linked List
@@ -438,8 +440,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
