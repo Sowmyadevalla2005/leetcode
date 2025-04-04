@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0392-is-subsequence) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2187-vowels-of-all-substrings](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2187-vowels-of-all-substrings) |
 ## Memoization
 |  |
@@ -463,10 +464,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Union Find
 |  |
 | ------- |
@@ -475,4 +478,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
+## Topological Sort
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
