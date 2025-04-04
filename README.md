@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0055-jump-game) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0561-array-partition) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0118-pascals-triangle) |
