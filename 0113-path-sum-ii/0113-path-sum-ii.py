@@ -20,7 +20,7 @@ class Solution(object):
             if not node.left and not node.right:
                 if sum(cur)==targetSum:
                     s.append(cur)
-                return
+            
             dfs(node.left,cur)
             dfs(node.right,cur)
         dfs(root,[])
