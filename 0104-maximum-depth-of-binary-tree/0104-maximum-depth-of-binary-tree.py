@@ -16,16 +16,12 @@ class Solution(object):
         if not root.left and not root.right:
             return 1
         if root.left:
-            left=self.maxDepth(root.left)
+            l=self.maxDepth(root.left)
         else:
-            left=0
-
-       
+            l= 0
         if root.right:
-            right = self.maxDepth(root.right)
+            r=self.maxDepth(root.right)
         else:
-            right = 0
-       
+            r=0
 
-        return 1+max(left,right)
-        
+        return 1+max(l,r)
