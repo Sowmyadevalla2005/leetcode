@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1317-monthly-transactions-i](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1877-find-followers-count](https://github.com/Sowmyadevalla2005/leetcode/tree/master/1877-find-followers-count) |
+| [2087-confirmation-rate](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Sowmyadevalla2005/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Hash Table
