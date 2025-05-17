@@ -13,17 +13,18 @@ class Solution(object):
         """
         if not root:
             return []
-        ans=[]
+        ians=[]
         q=deque([root])
         while q:
-            ians=[]
-            for _ in range(len(q)):
+            level=len(q)
+            for i in range(level):
                 node=q.popleft()
-                ians.append(node.val)
+                if i==level-1:
+                    ians.append(node.val)
                 
                 if node.left:
                     q.append(node.left)
                 if node.right:
                     q.append(node.right)
-            ans.append(ians[-1])
-        return ans
+            
+        return ians
