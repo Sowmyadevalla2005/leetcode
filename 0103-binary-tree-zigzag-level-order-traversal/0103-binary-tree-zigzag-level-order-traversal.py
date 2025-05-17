@@ -19,17 +19,26 @@ class Solution(object):
             length=len(q)
 
             inans=[]
-
+            level = 0
             for _ in range(length):
                 node=q.popleft()
                 inans.append(node.val)
-
+                
                 if node.left:
                     q.append(node.left)
                 if node.right:
                     q.append(node.right)
+                level+=1
 
             ans.append(inans)
-        return ans
+        res=[]
+        for i in range(len(ans)):
+            if i%2==0:
+                res.append(ans[i])
+            else:
+                res.append(ans[i][::-1])
+        return res
+        
+    
 
         
