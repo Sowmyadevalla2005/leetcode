@@ -5,6 +5,7 @@ class Solution(object):
         :type target: int
         :rtype: int
         """
+        
         for i in range(len(nums)):
             if target == nums[i]:
                 return i
