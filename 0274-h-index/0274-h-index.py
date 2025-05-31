@@ -1,9 +1,19 @@
-class Solution:
-    def hIndex(self, citations: List[int]) -> int:
-        citations.sort(reverse=True)
-        n=len(citations)
-        for i in range(n):
-            if citations[i]<=i:
-                return i
-        return n
+class Solution(object):
+    def hIndex(self, citations):
+        """
+        :type citations: List[int]
+        :rtype: int
+        """
+        l=len(citations)
+        s=[0]*(l+1)
+        for c in citations:
+            s[min(l,c)]+=1
+        
+        h=l
+        papers = s[h]
+        while papers<h:
+            h-=1
+            papers+=s[h]
+        return h
+        
         
