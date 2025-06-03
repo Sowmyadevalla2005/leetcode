@@ -12,15 +12,19 @@ class Solution(object):
         :type root: Node
         :rtype: List[int]
         """
+
         if not root:
             return []
-
+        
         res=[]
-        stack=[root]
 
-        while stack:
-            c=stack.pop()
-            res.append(c.val)
-            for t in c.children:
-                stack.append(t)
-        return list(reversed(res))      
+        def post(root):
+            if root:
+                for c in root.children:
+                    post(c)
+                res.append(root.val)
+        post(root)
+        return res
+                
+            
+                  
