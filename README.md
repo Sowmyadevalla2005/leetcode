@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0322-coin-change) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0210-course-schedule-ii) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Sowmyadevalla2005/leetcode/tree/master/0222-count-complete-tree-nodes) |
