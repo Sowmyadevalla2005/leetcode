@@ -18,10 +18,11 @@ class Solution(object):
         for i in range(len(nums)-2,-1,-1):
             right_prefix[i]=right_prefix[i+1]*nums[i+1]
         
-        
+        t=left_prefix
+        y=right_prefix
 
         for i in range(len(nums)):
-            s.append(left_prefix[i]*right_prefix[i])
+            s.append(t[i]*y[i])
         return s
        
 
