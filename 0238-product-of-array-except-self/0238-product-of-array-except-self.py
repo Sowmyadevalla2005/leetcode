@@ -4,26 +4,29 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        s=[]
-        t=1
-        z_cnt = 0
-        for i in nums:
-            if i==0:
-                z_cnt+=1
-            else:
-                t=t*i
+        left_prefix = [1]*len(nums)
+        right_prefix = [1]*len(nums)
 
-        for i in range(0,len(nums)):
-            if z_cnt>1:
-                s.append(0)
-            elif z_cnt==1:
-                if nums[i]==0:
-                    s.append(t)
-                else:
-                    s.append(0)
-            else:
-                s.append(t//nums[i])
+        s=[]
+        
+
+        for i in range(1,len(nums)):
+            left_prefix[i]=left_prefix[i-1]*nums[i-1]
+        
+        
+
+        for i in range(len(nums)-2,-1,-1):
+            right_prefix[i]=right_prefix[i+1]*nums[i+1]
+        
+        t=left_prefix
+        y=right_prefix
+
+        for i in range(len(nums)):
+            s.append(t[i]*y[i])
         return s
+       
+
+
 
 
         
