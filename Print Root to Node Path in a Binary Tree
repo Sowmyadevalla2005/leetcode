@@ -1,0 +1,43 @@
+class getNode:
+    def __init__(self,data):
+        self.data  = data
+        self.left  = None
+        self.right = None
+    
+    
+def checkPath(root,arr,tar):
+    if root is None:
+        return False
+        
+    arr.append(root.data)
+        
+    if root.data == tar:
+        return True
+        
+    if (checkPath(root.left,arr,tar) or checkPath(root.right,arr,tar)):
+        return True
+        
+    if not root.left and not root.right:
+        arr.pop(-1)
+    return False
+    
+def printPath(root,tar):
+    arr=[]
+    if(checkPath(root,arr,tar)):
+            print("->".join(map(str,arr)))  #converting all elements in an array to strings and joining them with a seperator ->
+            
+    else:
+        print("no path")
+    
+root = getNode(1) 
+root.left = getNode(2) 
+root.right = getNode(3) 
+root.left.left = getNode(4) 
+root.left.right = getNode(5) 
+root.right.left = getNode(6) 
+root.right.right = getNode(7) 
+
+x = 5
+printPath(root, x)
+    
+    
